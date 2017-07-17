@@ -7,7 +7,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
 </div>
 
 # Academic Details
-I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Computer Science and Engineering in 2012.
+I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
 
 # Contact:
-preksha [at] cse[dot]iitm[dot]ac[dot]in
+patanjali.slpsk [at] gmail[dot]com
