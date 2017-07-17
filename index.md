@@ -10,4 +10,4 @@ as a part of my course projects. My other areas of interest include Computer Arc
 I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
 
 # Contact:
-patanjali.slpsk [at] gmail[dot]com
+patanjali [dot] slpsk [at] gmail[dot]com
