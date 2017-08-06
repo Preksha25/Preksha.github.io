@@ -63,6 +63,8 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
    </ul>
 
 # Internship 
+
+## Problem Statemnet
    In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
 its associated constraints, processes and generates data as output. At present there is no
 mechanism to represent this data in a database which limits the possibility of live query on
@@ -70,13 +72,13 @@ the data and get a useful information and value add out of it. For example: to f
 critical path it requires to load a timer which in turn processes the input and eventually
 writes out report. Instead, it can be easily queried if the database is annotated with relevant
 information. The project addresses the following:
-<ul>
-<li> Using Graph based data base representation like Neo4J/MongoDB </li>
-<li> Handle Hierarchical design data </li>
-<li> Distribution over multiple clusters (as design is developed over multiple sites and multiple people and partitioned)</li>
-<li> Extensible as data can be annotated with any information on top of the base structure.</li>
-<li> Common and useful queries as value added service.</li>
-</ul>
+   <ul>
+   <li> Using Graph based data base representation like Neo4J/MongoDB </li>
+   <li> Handle Hierarchical design data </li>
+   <li> Distribution over multiple clusters (as design is developed over multiple sites and multiple people and partitioned)  </li>
+   <li> Extensible as data can be annotated with any information on top of the base structure.</li>
+   <li> Common and useful queries as value added service.</li>
+   </ul>
 
 # Academic Details
 I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
