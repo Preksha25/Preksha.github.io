@@ -20,7 +20,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
 In iterative Vt-assignment, we observe that there is a good correlation between the slack distribution in a given iteration, and the order of gate replacements in subsequent iterations. This paper proposes an algorithm, which exploits this high correlation to speed up the Vt-assignment process. The proposed algorithm uses gate replacement windows, with lazy timing evaluation, to reduce the total number of incremental STA runs during the optimization. At the end of each iteration, the successive window size is dynamically scaled up/down based on the timing updates at the end of the current window. The proposed algorithm, when applied to ISCAS/ITC circuits, significantly reduced the run-time without impacting the solution quality.
 . </h6></div>
    </table>
-<table width="100%" align="center" border="0" cellspacing="0">
+   <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><a href="https://www.usenix.org/conference/hotpower12/workshop-program/presentation/gautham"><h3>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</h3></a><font color="grey"><h5><i><b> HotPower, 2012 </b></i></h5></font>
    <font color="black"><h5> Ashok Gautham, Kunal Korgaonkar, Patanjali SLPSK, Shankar Balachandran, and Kamakoti Veezhinathan</h5></font>
 
