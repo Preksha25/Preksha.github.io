@@ -14,7 +14,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
    </tr>
     <tr>
       <td width="30%">
-      <img src='/images/diag1.png'>         
+      <img src='diag1.png'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6> Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets. </h6></div>
