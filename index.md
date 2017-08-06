@@ -1,3 +1,6 @@
+<head>
+  <title>Patanjali</title>
+</head>
 # About Me
 <div style = "text-align: justify">
 Am currently pursuing my PhD at IIT Madras. My area of research is Software Aspects of VLSI.
