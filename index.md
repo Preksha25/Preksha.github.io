@@ -20,6 +20,18 @@ as a part of my course projects. My other areas of interest include Computer Arc
    </table>
    
    <table width="100%" align="center" border="0" cellspacing="0">
+   <tr text-align="justify"><h3>HALTimer: a fast Vt replacement Heuristic for leakage power minimization using Adaptive Lazy Timer</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2015 </b></i></h5></font>
+   <font color="black"><h5>Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
+    <tr>
+      <td width="30%">
+      <img src='dac2015.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6>Abstract—The discrete Vt sizing technique is employed at all stages of the physical synthesis flow, because it does not impact the placement yet provides significant room for power/timing optimization. The timing-constrained discrete Vt sizing problem (TC-DVSP) is NP-complete and earlier techniques reported for the same, employed iterative greedy or sensitivity-driven heuristics, that required incremental timing analysis after every   iteration. The key observation reported in this paper is that there exists a good correlation between the slack distribution among gates in a given iteration and the order of gate replacements in subsequent iterations. This paper exploits the above observation to propose HALTimer, an iterative algorithm that uses adaptive lazy timing analysis to solve the TC-DVSP. For large ISPD and ITC circuits, HALTimer reduces the running time from several days to a few hours. This significant decrease in running time is very useful to the industry for achieving timing and power closures of large designs within a given
+deadline. </h6></div></td></tr>
+   </table>
+ 
+   <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
    <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
