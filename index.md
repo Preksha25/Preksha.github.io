@@ -7,6 +7,18 @@ as a part of my course projects. My other areas of interest include Computer Arc
 </div>
 # Awards 
 # Publications:
+
+<table width="100%" align="center" border="0" cellspacing="0">
+   <tr text-align="justify"><a href="https://arxiv.org/abs/1702.07223"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b>  arXiv, 2017 </b></i></h5></font>
+   <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
+    <tr>
+      <td width="30%">
+      <img src='gandalf.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6>Reading or writing outside the bounds of a buffer is a serious security vulnerability that has been exploited in numerous occasions. These attacks can be prevented by ensuring that every buffer is only accessed within its specified bounds. In this paper we present Gandalf, a compiler-assisted hardware extension for the OpenRISC processor that thwarts all forms of memory based attacks including buffer overflows and over-reads.The feature associates lightweight base and bound capabilities to all pointer variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality, thus resulting in small performance penalties. </h6></div></td></tr>
+   </table>
+   
    <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
    <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
