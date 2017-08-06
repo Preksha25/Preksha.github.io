@@ -63,7 +63,7 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
    </ul>
 
 # Internship
-### IBM Labs(July, 2015 - December,2015)
+### IBM Labs (July, 2015 - December,2015)
 <h2>Problem Statement </h2>
  <div style = "text-align: justify">
    In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
@@ -73,6 +73,7 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
  critical path it requires to load a timer which in turn processes the input and eventually
  writes out report. Instead, it can be easily queried if the database is annotated with relevant
  information. The project addresses the following:</div>
+ 
    <ul>
    <li> Using Graph based data base representation like Neo4J/MongoDB </li>
    <li> Handle Hierarchical design data </li>
