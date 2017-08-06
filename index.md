@@ -64,7 +64,7 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
 
 # Internship
 ### IBM Labs(July, 2015 - December,2015)
- ## Problem Statemnet
+<b>Problem Statemnet </b>
    In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
  its associated constraints, processes and generates data as output. At present there is no
  mechanism to represent this data in a database which limits the possibility of live query on
