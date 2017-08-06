@@ -1,7 +1,7 @@
 # About Me
 <div style = "text-align: justify">
 Am currently pursuing my PhD at IIT Madras. My area of research is Software Aspects of VLSI.
-My primary area of interest is in developing efficient heuristics for low power VLSI.
+My primary area of interest is in developing efficient heuristics for energy efficient computing.
 I have also worked on heuristics for various post synthesis stages like partitioning,placement and routing,
 as a part of my course projects. My other areas of interest include Computer Architecture and Parallel Algorithms.
 </div>
@@ -63,6 +63,8 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
    </ul>
 
 # Internship 
+   Interned at IBM Labs from July, 2015 to December, 2015
+   
     ## Problem Statemnet
       In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
     its associated constraints, processes and generates data as output. At present there is no
