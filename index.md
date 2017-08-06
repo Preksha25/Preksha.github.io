@@ -8,9 +8,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
 
 # Publications:
    <table width="100%" align="center" border="0" cellspacing="0">
-   
-   
-    <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
+   <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
    <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font>
 
    </tr>
