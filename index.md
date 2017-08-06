@@ -27,7 +27,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
         </table> </li>
    <li>
    <table width="100%" align="center" border="0" cellspacing="0">
-   <tr text-align="justify"><h3>HALTimer: a fast Vt replacement Heuristic for leakage power minimization using Adaptive Lazy Timer</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2015 </b></i></h5></font>
+   <tr text-align="justify"><h3>HALTimer: a fast Vt replacement Heuristic for leakage power minimization using Adaptive Lazy Timer</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2015 (Work in progress) </b></i></h5></font>
    <font color="black"><h5>Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
       <td width="30%">
@@ -39,11 +39,11 @@ deadline. </h6></div></td></tr>
 </table></li>
  
    <li><table width="100%" align="center" border="0" cellspacing="0">
-   <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
+   <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 (Work in progress) </b></i></h5></font>
    <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
       <td width="30%">
-      <img src='diag2.png'>         
+      <img src='dac2014.png'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>We consider the timing-constrained discrete Vt-assignment problem for leakage minimization in digital circuits. The problem is known to be NP-complete. Greedy or Sensitivity-driven heuristics are known to be very effective for iterative Vt-assignment, with incremental timing analysis performed between the iterations. These heuristics, while offering good leakage power savings, carry a huge run-time penalty with increase in circuit size.
