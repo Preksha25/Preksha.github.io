@@ -5,10 +5,14 @@ My primary area of interest is in developing efficient heuristics for low power 
 I have also worked on heuristics for various post synthesis stages like partitioning,placement and routing,
 as a part of my course projects. My other areas of interest include Computer Architecture and Parallel Algorithms.
 </div>
-# Awards 
+# Awards
+<ul>
+   <li> <a href="https://www.iitm.ac.in/content/iitm-team-wins-first-place-csaw-embedded-security-challenge-2016-%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%9F%E0%A5%80%E0%A4%AE-%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%B8%E0%A4%8F%E0%A4%A1%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82">  Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2016 </a></li>
+   <li> <a href = ""> Won 2nd place in Yahoo, Hackathon, 2013 </a> </li>
+   </ul>
 # Publications:
-
-<table width="100%" align="center" border="0" cellspacing="0">
+<ul> 
+<li> <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><a href="https://arxiv.org/abs/1702.07223"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b>  arXiv, 2017 </b></i></h5></font>
    <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
     <tr>
@@ -17,8 +21,8 @@ as a part of my course projects. My other areas of interest include Computer Arc
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>Reading or writing outside the bounds of a buffer is a serious security vulnerability that has been exploited in numerous occasions. These attacks can be prevented by ensuring that every buffer is only accessed within its specified bounds. In this paper we present Gandalf, a compiler-assisted hardware extension for the OpenRISC processor that thwarts all forms of memory based attacks including buffer overflows and over-reads.The feature associates lightweight base and bound capabilities to all pointer variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality, thus resulting in small performance penalties. </h6></div></td></tr>
-   </table>
-   
+        </table> </li>
+   <li>
    <table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>HALTimer: a fast Vt replacement Heuristic for leakage power minimization using Adaptive Lazy Timer</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2015 </b></i></h5></font>
    <font color="black"><h5>Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
@@ -29,9 +33,9 @@ as a part of my course projects. My other areas of interest include Computer Arc
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>Abstract—The discrete Vt sizing technique is employed at all stages of the physical synthesis flow, because it does not impact the placement yet provides significant room for power/timing optimization. The timing-constrained discrete Vt sizing problem (TC-DVSP) is NP-complete and earlier techniques reported for the same, employed iterative greedy or sensitivity-driven heuristics, that required incremental timing analysis after every   iteration. The key observation reported in this paper is that there exists a good correlation between the slack distribution among gates in a given iteration and the order of gate replacements in subsequent iterations. This paper exploits the above observation to propose HALTimer, an iterative algorithm that uses adaptive lazy timing analysis to solve the TC-DVSP. For large ISPD and ITC circuits, HALTimer reduces the running time from several days to a few hours. This significant decrease in running time is very useful to the industry for achieving timing and power closures of large designs within a given
 deadline. </h6></div></td></tr>
-   </table>
+</table></li>
  
-   <table width="100%" align="center" border="0" cellspacing="0">
+   <li><table width="100%" align="center" border="0" cellspacing="0">
    <tr text-align="justify"><h3>Efficient Vt-Assignment to Minimize Circuit Leakage using Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b>  Design Automation Conference, 2014 </b></i></h5></font>
    <font color="black"><h5> Patanjali SLPSK, Seetal Potluri and V. Kamakoti</h5></font></tr>
     <tr>
@@ -43,8 +47,8 @@ deadline. </h6></div></td></tr>
 
 In iterative Vt-assignment, we observe that there is a good correlation between the slack distribution in a given iteration, and the order of gate replacements in subsequent iterations. This paper proposes an algorithm, which exploits this high correlation to speed up the Vt-assignment process. The proposed algorithm uses gate replacement windows, with lazy timing evaluation, to reduce the total number of incremental STA runs during the optimization. At the end of each iteration, the successive window size is dynamically scaled up/down based on the timing updates at the end of the current window. The proposed algorithm, when applied to ISCAS/ITC circuits, significantly reduced the run-time without impacting the solution quality.
 . </h6></div></td></tr>
-   </table>
-   <table>
+   </table></li>
+   <li><table>
    <tr text-align="justify"><a href="https://www.usenix.org/conference/hotpower12/workshop-program/presentation/gautham"><h3>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</h3></a><font color="grey"><h5><i><b> HotPower, 2012 </b></i></h5></font>
    <font color="black"><h5> Ashok Gautham, Kunal Korgaonkar, Patanjali SLPSK, Shankar Balachandran, and Kamakoti Veezhinathan</h5></font>
 
@@ -55,8 +59,15 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6> Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets. </h6></div></td></tr>
-   </table>
+   </table></li>
+   </ul>
 
+# Internship 
+* Interned at IBM labs, Bangalore from June 2015 to Dec 2015. The contribution of the work is as follows:
+<ul>
+A memory efficient hierarchical method of representing the netlist using Apache
+Spark.
+– A distributed timing engine.
 # Academic Details
 I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
 
