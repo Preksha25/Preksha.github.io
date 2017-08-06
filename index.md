@@ -6,6 +6,20 @@ I have also worked on heuristics for various post synthesis stages like partitio
 as a part of my course projects. My other areas of interest include Computer Architecture and Parallel Algorithms.
 </div>
 
+# Publications:
+   <table width="100%" align="center" border="0" cellspacing="0">
+   <tr text-align="justify"><a href="https://www.usenix.org/conference/hotpower12/workshop-program/presentation/gautham"><h3>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</h3></a><font color="grey"><h5><i><b> HotPower, 2012 </b></i></h5></font>
+   <font color="black"><h5> Ashok Gautham, Kunal Korgaonkar, Patanjali SLPSK, Shankar Balachandran, and Kamakoti Veezhinathan</h5></font>
+
+   </tr>
+    <tr>
+      <td width="30%">
+      <img src='/images/diag1.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6> Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets. </h6></div>
+   </table>
+
 # Academic Details
 I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
 
