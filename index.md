@@ -64,14 +64,15 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
 
 # Internship
 ### IBM Labs(July, 2015 - December,2015)
-<b>Problem Statemnet </b>
+<h2>Problem Statement </h2>
+ <div style = "text-align: justify">
    In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
  its associated constraints, processes and generates data as output. At present there is no
  mechanism to represent this data in a database which limits the possibility of live query on
  the data and get a useful information and value add out of it. For example: to find a timing
  critical path it requires to load a timer which in turn processes the input and eventually
  writes out report. Instead, it can be easily queried if the database is annotated with relevant
- information. The project addresses the following:
+ information. The project addresses the following:</div>
    <ul>
    <li> Using Graph based data base representation like Neo4J/MongoDB </li>
    <li> Handle Hierarchical design data </li>
