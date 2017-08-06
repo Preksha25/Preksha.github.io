@@ -8,7 +8,7 @@ as a part of my course projects. My other areas of interest include Computer Arc
 # Awards
 <ul>
    <li> <a href="https://www.iitm.ac.in/content/iitm-team-wins-first-place-csaw-embedded-security-challenge-2016-%E0%A4%86%E0%A4%88%E0%A4%86%E0%A4%88%E0%A4%9F%E0%A5%80%E0%A4%8F%E0%A4%AE-%E0%A4%9F%E0%A5%80%E0%A4%AE-%E0%A4%B8%E0%A5%80%E0%A4%8F%E0%A4%B8%E0%A4%8F%E0%A4%A1%E0%A4%AC%E0%A5%8D%E0%A4%B2%E0%A5%8D%E0%A4%AF%E0%A5%82">  Won 1st place in Embedded Security Challenge in Cyber Security Awareness Week, 2016 </a></li>
-   <li> <a href = ""> Won 2nd place in Yahoo, Hackathon, 2013 </a> </li>
+   <li> <a href = "http://www.skipser.com/p/2/p/hacku-2013-winners.html"> Won 2nd place in Yahoo, Hackathon, 2013 </a> </li>
    </ul>
 # Publications:
 <ul> 
@@ -63,11 +63,21 @@ In iterative Vt-assignment, we observe that there is a good correlation between 
    </ul>
 
 # Internship 
-* Interned at IBM labs, Bangalore from June 2015 to Dec 2015. The contribution of the work is as follows:
+   In a typical design flow, multiple tools and scripts are used. Each tool reads the input,
+its associated constraints, processes and generates data as output. At present there is no
+mechanism to represent this data in a database which limits the possibility of live query on
+the data and get a useful information and value add out of it. For example: to find a timing
+critical path it requires to load a timer which in turn processes the input and eventually
+writes out report. Instead, it can be easily queried if the database is annotated with relevant
+information. The project addresses the following:
 <ul>
-A memory efficient hierarchical method of representing the netlist using Apache
-Spark.
-– A distributed timing engine.
+<li> Using Graph based data base representation like Neo4J/MongoDB </li>
+<li> Handle Hierarchical design data </li>
+<li> Distribution over multiple clusters (as design is developed over multiple sites and multiple people and partitioned)</li>
+<li> Extensible as data can be annotated with any information on top of the base structure.</li>
+<li> Common and useful queries as value added service.</li>
+</ul>
+
 # Academic Details
 I have completed my B.Tech from Pondicherry Engineering College, Pondicherry in Electrical, Electronics and Communications Engineering in 2011.
 
