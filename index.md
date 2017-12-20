@@ -10,7 +10,7 @@ I am currently working on the following three problems
 <li> Developing smarter backend tools for VLSI-CAD.</li>
 <li> Building accelerators for Machine Learning </li>
 <li> Building secure systems </li> 
-
+</ul>
 
 
 I have also worked on developing heuristics for various post synthesis stages like partitioning,placement and routing, as a part of my course projects. My other areas of interest include  Computer Architecture and Parallel Algorithms.
