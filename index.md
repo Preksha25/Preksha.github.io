@@ -3,10 +3,17 @@
 </head>
 # About Me
 <div style = "text-align: justify">
-Am currently pursuing my PhD at IIT Madras. My area of research is Software Aspects of VLSI.
-My primary area of interest is in developing efficient heuristics for energy efficient computing.
-I have also worked on heuristics for various post synthesis stages like partitioning,placement and routing,
-as a part of my course projects. My other areas of interest include Computer Architecture and Parallel Algorithms.
+Am currently pursuing my PhD at IIT Madras. My primary area of interest is in developing energy efficient systems. I have also worked on a couple of problems in hardware security.
+
+I am currently working on the following three problems
+<ul>
+<li> Developing smarter backend tools for VLSI-CAD.</li>
+<li> Building accelerators for Machine Learning </li>
+<li> Building secure systems </li> 
+
+
+
+I have also worked on developing heuristics for various post synthesis stages like partitioning,placement and routing, as a part of my course projects. My other areas of interest include  Computer Architecture and Parallel Algorithms.
 </div>
 # Awards
 <ul>
