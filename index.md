@@ -21,9 +21,33 @@ I have also worked on developing heuristics for various post synthesis stages li
    <li> <a href = "http://www.skipser.com/p/2/p/hacku-2013-winners.html"> Won 2nd place in Yahoo, Hackathon, 2013 </a> </li>
    </ul>
 # Publications:
+
 <ul> 
+  <li> <table width="100%" align="center" border="0" cellspacing="0">
+   <tr text-align="justify"><h3>"MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</h3><font color="grey"><h5><i><b> To be published in JOLPE June 2018 </b></i></h5></font>
+   <font color="black"><h5> Patanjali SLPSK, Milan Patnaik, Seetal Potluri, Kamakoti Veezhinathan</h5></font></tr>
+    <tr>
+      <td width="30%">
+      <img src='gandalf.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6>The timing constrained discrete sizing technique (TC-DSP) is employed at all stages of the physical synthesis flow and has been studied extensively over the last 30 years. The ISPD gate
+sizing contests introduced industry standard benchmarks and library which motivated a lot of research in this area. However most of the solutions employed were either sensitivity driven or based on analytical methods that required incremental timing analysis after every iteration with both consuming a significant amount of time to perform the optimization. The key observations reported in this paper are i) there exists a good correlation between the slack distribution among gates in a given iteration and the order of gate replacements in subsequent iterations; and, ii) across the benchmark circuits there exists significant overlap in the number of sub-circuits that have similar structures. This paper exploits the above observations to propose MLTimer, an iterative algorithm that uses adaptive lazy timing analysis in conjunction with a Support Vector Machine (SVM) engine for solving the TC-DSP quickly and efficiently. We observe that for large benchmark circuits (≥ 200,000) our proposed solution reduces the leakage power by 3% and the running time by over 50% when compared to the best reported heuristic in the literature. This significant decrease in running time is very useful to the industry for achieving timing and power closures of large designs within a given deadline.</h6></div></td></tr>
+        </table> </li>
+  
+  <li> <table width="100%" align="center" border="0" cellspacing="0">
+   <tr text-align="justify"><a href="https://ieeexplore.ieee.org/document/8290931/"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b>  Embedded Systems Letters, 2018 </b></i></h5></font>
+   <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
+    <tr>
+      <td width="30%">
+      <img src='gandalf.png'>         
+      </td>
+      <td valign="top" width="70%"> 
+        <div style = "text-align: justify"> <h6>Illegal memory accesses are a serious security vulnerability that have been exploited on numerous occasions. In this paper we present Gandalf, a compiler assisted hardware extension for the OpenRISC processor that thwarts all forms of memory based attacks. We associate lightweight capabilities to all program variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality and incurs minimal overheads in the hardware. We demonstrate these features with a customized Linux kernel executing SPEC2006 benchmarks. To the best of our knowledge, this is the first work to demonstrate the complete solution for hardware based memory protection schemes for embedded platforms. </h6></div></td></tr>
+        </table> </li>
+
 <li> <table width="100%" align="center" border="0" cellspacing="0">
-   <tr text-align="justify"><a href="https://arxiv.org/abs/1702.07223"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b>  arXiv, 2017 </b></i></h5></font>
+   <tr text-align="justify"><a href="https://arxiv.org/abs/1702.07223"><h3>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks</h3></a><font color="grey"><h5><i><b> (This is the work we submitted to CSAW2016) arXiv, 2017 </b></i></h5></font>
    <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
     <tr>
       <td width="30%">
