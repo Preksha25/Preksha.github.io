@@ -28,7 +28,7 @@ I have also worked on developing heuristics for various post synthesis stages li
    <font color="black"><h5> Patanjali SLPSK, Milan Patnaik, Seetal Potluri, Kamakoti Veezhinathan</h5></font></tr>
     <tr>
       <td width="30%">
-      <img src='gandalf.png'>         
+      <img src='LearnTimer.jpg'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>The timing constrained discrete sizing technique (TC-DSP) is employed at all stages of the physical synthesis flow and has been studied extensively over the last 30 years. The ISPD gate
@@ -40,7 +40,7 @@ sizing contests introduced industry standard benchmarks and library which motiva
    <font color="black"><h5> Gnanambikai Krishnakumar, Patanjali SLPSK, Prasanna Karthik Vairam, Chester Rebeiro</h5></font></tr>
     <tr>
       <td width="30%">
-      <img src='gandalf.png'>         
+      <img src='gandalfarch.jpg'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>Illegal memory accesses are a serious security vulnerability that have been exploited on numerous occasions. In this paper we present Gandalf, a compiler assisted hardware extension for the OpenRISC processor that thwarts all forms of memory based attacks. We associate lightweight capabilities to all program variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality and incurs minimal overheads in the hardware. We demonstrate these features with a customized Linux kernel executing SPEC2006 benchmarks. To the best of our knowledge, this is the first work to demonstrate the complete solution for hardware based memory protection schemes for embedded platforms. </h6></div></td></tr>
