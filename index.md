@@ -28,7 +28,7 @@ I have also worked on developing heuristics for various post synthesis stages li
    <font color="black"><h5> Patanjali SLPSK, Milan Patnaik, Seetal Potluri, Kamakoti Veezhinathan</h5></font></tr>
     <tr>
       <td width="30%">
-      <img src='LearnTimer.jpg'>         
+      <img src='Learntimer.jpg'>         
       </td>
       <td valign="top" width="70%"> 
         <div style = "text-align: justify"> <h6>The timing constrained discrete sizing technique (TC-DSP) is employed at all stages of the physical synthesis flow and has been studied extensively over the last 30 years. The ISPD gate
