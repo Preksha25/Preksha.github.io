@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/tags/</link>
+    <description>Recent content in Tags on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Energy Efficient Computing</title>
+      <link>https://patanjali.github.io/tags/energy-efficient-computing/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/energy-efficient-computing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML for EDA</title>
+      <link>https://patanjali.github.io/tags/ml-for-eda/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/ml-for-eda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA for security</title>
+      <link>https://patanjali.github.io/tags/eda-for-security/</link>
+      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/eda-for-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fault attacks</title>
+      <link>https://patanjali.github.io/tags/fault-attacks/</link>
+      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/fault-attacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware Security</title>
+      <link>https://patanjali.github.io/tags/hardware-security/</link>
+      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/hardware-security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AI Privacy</title>
+      <link>https://patanjali.github.io/tags/ai-privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/ai-privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://patanjali.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

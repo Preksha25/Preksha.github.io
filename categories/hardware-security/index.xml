@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hardware Security on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/categories/hardware-security/</link>
+    <description>Recent content in Hardware Security on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 06:12:56 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/categories/hardware-security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Samaritan: An automated framework for detecting fault attacks in hardware</title>
+      <link>https://patanjali.github.io/project/proj1/</link>
+      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj1/</guid>
+      <description>Automatic detection of fault vulnerabilities is a challenging problem because of the complicated attack surface. An interesting observation is that, out of the large number of faults that can occur in the design, very few faults are actually exploitable. However, there are no automated tools that can identify these exploitable fault locations in a hardware device. Hence current countermeasures cannot target these exploitable locations and incur significant overhead. Another challenge is that the designers have to ensure that the security guarantees of these countermeasures are met at every stage of the manufacturing process.</description>
+    </item>
+    
+    <item>
+      <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
+      <link>https://patanjali.github.io/project/proj3/</link>
+      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj3/</guid>
+      <description>Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks.</description>
+    </item>
+    
+  </channel>
+</rss>
