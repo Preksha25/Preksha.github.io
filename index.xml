@@ -32,16 +32,6 @@
     </item>
     
     <item>
-      <title>Samaritan: An automated framework for detecting fault attacks in hardware</title>
-      <link>https://patanjali.github.io/project/proj1/</link>
-      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
-      
-      <guid>https://patanjali.github.io/project/proj1/</guid>
-      <description>&lt;p&gt;Automatic detection of fault vulnerabilities is a challenging problem because of the complicated attack surface. An interesting observation is that, out of the large number of faults that can occur in the design, very few faults are actually exploitable. However, there are no automated tools that can identify these exploitable fault locations in a hardware device. Hence current countermeasures cannot target these exploitable locations and incur significant overhead. Another challenge is that the designers have to ensure that the security guarantees of these countermeasures are met at every stage of the manufacturing process. Formal verification is a tool that can be leveraged to ensure that these guarantees are met without incurring significant overheads. We propose Samaritan, a formal framework that addresses these problems using user-defined specifications and the implemented design. Given a design implementation, either at RTL or gate level, SAMARITAN is capable of pinpointing the vulnerable regions in the design, thereby enabling targeted countermeasures to be deployed. We demonstrate the efficiency of this framework using three ciphers namely, AES, SIMON, and CAMELLIA.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
       <link>https://patanjali.github.io/project/proj3/</link>
       <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
@@ -115,16 +105,6 @@ ML models are inherently trained to operate on large datasets and navigate a com
       
       <guid>https://patanjali.github.io/publication/conference/paper3/</guid>
       <description>&lt;p&gt;Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy aware Deep Learning </title>
-      <link>https://patanjali.github.io/project/proj2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://patanjali.github.io/project/proj2/</guid>
-      <description>&lt;p&gt;The advent of IoT has led to massive data generation due to the widespread deployment of sensors, networks, and processing devices. Deep Learning has emerged as a popular computing paradigm that is used to process these large scale data and gather useful information. Of late, companies like Amazon and Google have provided cloud-based Deep Learning solutions. These solutions are referred to as Deep Learning as a Service (DLaaS). Recent works have demonstrated that these DLaaS systems are quite vulnerable to adversarial attacks. In this work, we explore three different adversarial scenarios i) naive adversary, ii) countermeasure-aware adversary and iii) Untrusted server. We also explore countermeasures inspired from information theory such as adding noise and data-shuffling. We quantify the impact of these countermeasures on ResNet and GoogleNet architectures using the Imagenet dataset. We demonstrate that we can outperform the adversary in all three scenarios.&lt;/p&gt;
 </description>
     </item>
     

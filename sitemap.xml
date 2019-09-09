@@ -95,11 +95,6 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/project/proj1/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/project/proj3/</loc>
     <lastmod>2019-06-03T06:12:56-07:00</lastmod>
   </url>
@@ -157,16 +152,6 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/tags/ai-privacy/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/categories/ai-security/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/authors/</loc>
     <priority>0</priority>
   </url>
@@ -174,15 +159,6 @@
   <url>
     <loc>https://patanjali.github.io/author/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/deep-learning/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/project/proj2/</loc>
   </url>
   
   <url>

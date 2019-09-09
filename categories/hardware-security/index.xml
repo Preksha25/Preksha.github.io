@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Samaritan: An automated framework for detecting fault attacks in hardware</title>
-      <link>https://patanjali.github.io/project/proj1/</link>
-      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
-      
-      <guid>https://patanjali.github.io/project/proj1/</guid>
-      <description>Automatic detection of fault vulnerabilities is a challenging problem because of the complicated attack surface. An interesting observation is that, out of the large number of faults that can occur in the design, very few faults are actually exploitable. However, there are no automated tools that can identify these exploitable fault locations in a hardware device. Hence current countermeasures cannot target these exploitable locations and incur significant overhead. Another challenge is that the designers have to ensure that the security guarantees of these countermeasures are met at every stage of the manufacturing process.</description>
-    </item>
-    
-    <item>
       <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
       <link>https://patanjali.github.io/project/proj3/</link>
       <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
