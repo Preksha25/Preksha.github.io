@@ -59,53 +59,18 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/categories/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/eda-for-security/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/fault-attacks/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/categories/hardware-security/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/hardware-security/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/project/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/project/proj3/</loc>
-    <lastmod>2019-06-03T06:12:56-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/publication/arxiv/paper4/</loc>
     <lastmod>2019-04-21T06:41:32-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://patanjali.github.io/publication_types/2/</loc>
+    <lastmod>2018-06-03T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/categories/</loc>
     <lastmod>2018-06-03T06:41:32-07:00</lastmod>
     <priority>0</priority>
   </url>

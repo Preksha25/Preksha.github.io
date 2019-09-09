@@ -32,16 +32,6 @@
     </item>
     
     <item>
-      <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
-      <link>https://patanjali.github.io/project/proj3/</link>
-      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
-      
-      <guid>https://patanjali.github.io/project/proj3/</guid>
-      <description>&lt;p&gt;Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks. We observe that by modifying the parameters of the vulnerable gates, the side-channel resistance of the design improves. We leverage this observation and propose SecureSizer, a gate-sizing technique to improve the side-channel resistance of the design. We show that the overheads of the proposed technique are less when compared to traditional countermeasures.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
       <link>https://patanjali.github.io/publication/arxiv/paper4/</link>
       <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
